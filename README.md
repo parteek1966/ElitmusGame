@@ -1,2 +1,2 @@
-Elitmus project of game
-Game URL= [a link](https://elitmus-wordgame.netlify.app/)
+Elitmus project of game \
+[GAME LINK](https://elitmus-wordgame.netlify.app/)
